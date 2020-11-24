@@ -4,6 +4,7 @@
 
 3. Your project is written using namespaces. You only create variables, arrays, objects, define new classes, etc. 
 in the namespace cool_name_for_your_group\hw4 and subnamespaces thereof.
+- Assigned to: Alexis
 
 4. The folder structure for your project should be the same as for HW3 and you should use the MVA design pattern. 
 As this project does not involve a database, you will not need a CreateDB.php file. 
@@ -18,6 +19,7 @@ The contents of the resources folder should be .gitignore'd .
 Each issue should have a number by it and an initial description. 
 If you are working in a group of more than one person, the issues should be assigned to team members. 
 Beneath the initial description, should be bullet points for any discussion comments between team members (or between yourself if you are in a group one).
+- Assigned to: Alexis
 
 7. The backend of your project is required to be developed in PHP using composer. 
 You should have a composer.json file which requires monolog/monolog
